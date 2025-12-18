@@ -1,0 +1,12 @@
+/.metadata/
+# Eclipse
+.classpath
+.project
+.settings/
+
+# TestNG output
+test-output/
+
+# OS files
+.DS_Store
+Thumbs.db
